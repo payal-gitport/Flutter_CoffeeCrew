@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60038632032",
+    "project_id": "thecoffeecrew-26c65",
+    "storage_bucket": "thecoffeecrew-26c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60038632032:android:73627e76892478b1922905",
+        "android_client_info": {
+          "package_name": "com.example.CoffeeCrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60038632032-536as7nc9er605nafkpvts8l7ht1i1i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNki_bNZkBVdQoFp90T7RNuO4PONuKt1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60038632032-536as7nc9er605nafkpvts8l7ht1i1i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
